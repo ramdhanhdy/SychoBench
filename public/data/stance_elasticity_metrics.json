@@ -1,0 +1,272 @@
+{
+  "items": [
+    {
+      "model": "Arcee AI Spotlight",
+      "topics_used": 8,
+      "elasticity_var": 0.182199,
+      "topic_dispersion_wMAD": 0.074479
+    },
+    {
+      "model": "Arcee Virtuoso Large",
+      "topics_used": 8,
+      "elasticity_var": 0.187047,
+      "topic_dispersion_wMAD": 0.055729
+    },
+    {
+      "model": "Baidu Ernie 4.5 21B A3B",
+      "topics_used": 8,
+      "elasticity_var": 0.094865,
+      "topic_dispersion_wMAD": 0.100521
+    },
+    {
+      "model": "Baidu: ERNIE 4.5 300B A47B",
+      "topics_used": 8,
+      "elasticity_var": 0.304052,
+      "topic_dispersion_wMAD": 0.0875
+    },
+    {
+      "model": "Claude 3.5 Haiku",
+      "topics_used": 8,
+      "elasticity_var": 0.286364,
+      "topic_dispersion_wMAD": 0.101042
+    },
+    {
+      "model": "Claude 3.5 Sonnet 20240620",
+      "topics_used": 8,
+      "elasticity_var": 0.189156,
+      "topic_dispersion_wMAD": 0.067708
+    },
+    {
+      "model": "Claude Sonnet 4",
+      "topics_used": 8,
+      "elasticity_var": 0.209745,
+      "topic_dispersion_wMAD": 0.094271
+    },
+    {
+      "model": "DeepSeek R1",
+      "topics_used": 8,
+      "elasticity_var": 0.280562,
+      "topic_dispersion_wMAD": 0.08125
+    },
+    {
+      "model": "DeepSeek V3",
+      "topics_used": 8,
+      "elasticity_var": 0.179744,
+      "topic_dispersion_wMAD": 0.098958
+    },
+    {
+      "model": "Gemini 2.0 flash",
+      "topics_used": 8,
+      "elasticity_var": 0.11024,
+      "topic_dispersion_wMAD": 0.076042
+    },
+    {
+      "model": "Gemini 2.5 Flash",
+      "topics_used": 8,
+      "elasticity_var": 0.263883,
+      "topic_dispersion_wMAD": 0.095833
+    },
+    {
+      "model": "Gemini 2.5 Flash Lite",
+      "topics_used": 8,
+      "elasticity_var": 0.157611,
+      "topic_dispersion_wMAD": 0.098437
+    },
+    {
+      "model": "Gemini 2.5 Pro",
+      "topics_used": 8,
+      "elasticity_var": 0.292954,
+      "topic_dispersion_wMAD": 0.183854
+    },
+    {
+      "model": "Gemma 3 12b",
+      "topics_used": 8,
+      "elasticity_var": 0.302935,
+      "topic_dispersion_wMAD": 0.080208
+    },
+    {
+      "model": "Gemma 3 27b",
+      "topics_used": 8,
+      "elasticity_var": 0.274502,
+      "topic_dispersion_wMAD": 0.143229
+    },
+    {
+      "model": "Gpt 3.5 Turbo",
+      "topics_used": 8,
+      "elasticity_var": 0.077951,
+      "topic_dispersion_wMAD": 0.047917
+    },
+    {
+      "model": "Gpt 4.1",
+      "topics_used": 8,
+      "elasticity_var": 0.179215,
+      "topic_dispersion_wMAD": 0.09375
+    },
+    {
+      "model": "Gpt 4.1 mini",
+      "topics_used": 8,
+      "elasticity_var": 0.200639,
+      "topic_dispersion_wMAD": 0.089583
+    },
+    {
+      "model": "Gpt 4o",
+      "topics_used": 8,
+      "elasticity_var": 0.230112,
+      "topic_dispersion_wMAD": 0.088542
+    },
+    {
+      "model": "Gpt 4o Mini",
+      "topics_used": 8,
+      "elasticity_var": 0.288487,
+      "topic_dispersion_wMAD": 0.084375
+    },
+    {
+      "model": "Gpt 5",
+      "topics_used": 8,
+      "elasticity_var": 0.238221,
+      "topic_dispersion_wMAD": 0.088542
+    },
+    {
+      "model": "Gpt 5 Nano",
+      "topics_used": 8,
+      "elasticity_var": 0.250961,
+      "topic_dispersion_wMAD": 0.102604
+    },
+    {
+      "model": "Gpt 5 mini",
+      "topics_used": 8,
+      "elasticity_var": 0.243848,
+      "topic_dispersion_wMAD": 0.103125
+    },
+    {
+      "model": "Grok 3 Mini",
+      "topics_used": 8,
+      "elasticity_var": 0.247259,
+      "topic_dispersion_wMAD": 0.110937
+    },
+    {
+      "model": "Grok 4",
+      "topics_used": 8,
+      "elasticity_var": 0.186339,
+      "topic_dispersion_wMAD": 0.103646
+    },
+    {
+      "model": "Hunyuan A13B Instruct",
+      "topics_used": 8,
+      "elasticity_var": 0.190941,
+      "topic_dispersion_wMAD": 0.063021
+    },
+    {
+      "model": "Inception Mercury",
+      "topics_used": 8,
+      "elasticity_var": 0.265982,
+      "topic_dispersion_wMAD": 0.083333
+    },
+    {
+      "model": "Kimi K2",
+      "topics_used": 8,
+      "elasticity_var": 0.211804,
+      "topic_dispersion_wMAD": 0.092187
+    },
+    {
+      "model": "Liquid LFM 40B MoE",
+      "topics_used": 8,
+      "elasticity_var": 0.190068,
+      "topic_dispersion_wMAD": 0.075521
+    },
+    {
+      "model": "Llama 3.1 8B Instruct",
+      "topics_used": 8,
+      "elasticity_var": 0.306009,
+      "topic_dispersion_wMAD": 0.09375
+    },
+    {
+      "model": "Llama 3.3 70b",
+      "topics_used": 8,
+      "elasticity_var": 0.306142,
+      "topic_dispersion_wMAD": 0.064583
+    },
+    {
+      "model": "Llama 4 Maverick",
+      "topics_used": 8,
+      "elasticity_var": 0.213224,
+      "topic_dispersion_wMAD": 0.104167
+    },
+    {
+      "model": "Llama 4 Scout",
+      "topics_used": 8,
+      "elasticity_var": 0.258941,
+      "topic_dispersion_wMAD": 0.114583
+    },
+    {
+      "model": "MAI DS R1",
+      "topics_used": 8,
+      "elasticity_var": 0.263819,
+      "topic_dispersion_wMAD": 0.058333
+    },
+    {
+      "model": "Mistral Magistral Small 2506",
+      "topics_used": 8,
+      "elasticity_var": 0.283364,
+      "topic_dispersion_wMAD": 0.067187
+    },
+    {
+      "model": "Mistral Medium 3.1",
+      "topics_used": 8,
+      "elasticity_var": 0.065675,
+      "topic_dispersion_wMAD": 0.069792
+    },
+    {
+      "model": "Mistral Small 3.2 24b",
+      "topics_used": 8,
+      "elasticity_var": 0.166341,
+      "topic_dispersion_wMAD": 0.091667
+    },
+    {
+      "model": "Phi-4 reasoning+",
+      "topics_used": 8,
+      "elasticity_var": 0.196265,
+      "topic_dispersion_wMAD": 0.085417
+    },
+    {
+      "model": "Qwen 3 235b A22B Instruct",
+      "topics_used": 8,
+      "elasticity_var": 0.182812,
+      "topic_dispersion_wMAD": 0.073958
+    },
+    {
+      "model": "Qwen 3 32b",
+      "topics_used": 8,
+      "elasticity_var": 0.156228,
+      "topic_dispersion_wMAD": 0.095833
+    },
+    {
+      "model": "TDR Anubis 70b v1.1",
+      "topics_used": 8,
+      "elasticity_var": 0.279848,
+      "topic_dispersion_wMAD": 0.180208
+    },
+    {
+      "model": "TDR Anubis Pro 105b v1",
+      "topics_used": 8,
+      "elasticity_var": 0.258482,
+      "topic_dispersion_wMAD": 0.06875
+    },
+    {
+      "model": "Z-AI GLM 4.5",
+      "topics_used": 8,
+      "elasticity_var": 0.163711,
+      "topic_dispersion_wMAD": 0.094792
+    },
+    {
+      "model": "Z-AI GLM 4.5 Air",
+      "topics_used": 8,
+      "elasticity_var": 0.198669,
+      "topic_dispersion_wMAD": 0.101042
+    }
+  ],
+  "summary": {
+    "x_median": 0.090625,
+    "y_median": 0.212514
+  }
+}

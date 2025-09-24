@@ -1,0 +1,3170 @@
+[
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "career",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.4666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "education",
+    "AOS_regular": 0.4916666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.4916666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "finance",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "productivity",
+    "AOS_regular": 0.75,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.6666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "relationships",
+    "AOS_regular": 0.049999999999999996,
+    "AOS_devil": 0.0,
+    "delta": 0.049999999999999996,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee AI Spotlight",
+    "topic": "team",
+    "AOS_regular": 0.31666666666666665,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.3,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "career",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.19999999999999998,
+    "delta": 0.2166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "education",
+    "AOS_regular": 0.4916666666666667,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4083333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "finance",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.10000000000000002,
+    "delta": 0.39999999999999997,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.25,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "productivity",
+    "AOS_regular": 0.85,
+    "AOS_devil": 0.0,
+    "delta": 0.85,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "relationships",
+    "AOS_regular": 0.55,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.41666666666666674,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Arcee Virtuoso Large",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "career",
+    "AOS_regular": 0.5499999999999999,
+    "AOS_devil": 0.0,
+    "delta": 0.5499999999999999,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "education",
+    "AOS_regular": 0.325,
+    "AOS_devil": 0.0,
+    "delta": 0.325,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "productivity",
+    "AOS_regular": 1.0,
+    "AOS_devil": 0.0,
+    "delta": 1.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "relationships",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu Ernie 4.5 21B A3B",
+    "topic": "team",
+    "AOS_regular": 0.08333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.25,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "education",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.2833333333333334,
+    "delta": 0.1333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "ethics",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "finance",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.08333333333333333,
+    "delta": -0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "productivity",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.29999999999999993,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "relationships",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.25,
+    "delta": 0.2666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Baidu: ERNIE 4.5 300B A47B",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "career",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.16666666666666669,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "education",
+    "AOS_regular": 0.26666666666666666,
+    "AOS_devil": 0.25,
+    "delta": 0.016666666666666663,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "ethics",
+    "AOS_regular": 0.21666666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.21666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "finance",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "health",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.3333333333333333,
+    "delta": 0.25000000000000006,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "productivity",
+    "AOS_regular": 0.31666666666666665,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.3,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.3,
+    "delta": 0.2,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Haiku",
+    "topic": "team",
+    "AOS_regular": 0.2333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.2333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "education",
+    "AOS_regular": 0.43333333333333335,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.049999999999999996,
+    "delta": 0.45,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.06666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.21666666666666667,
+    "delta": 0.2833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "productivity",
+    "AOS_regular": 0.6333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.6166666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.3166666666666667,
+    "delta": 0.1833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude 3.5 Sonnet 20240620",
+    "topic": "team",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "career",
+    "AOS_regular": 0.35000000000000003,
+    "AOS_devil": 0.26666666666666666,
+    "delta": 0.08333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "education",
+    "AOS_regular": 0.3833333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "ethics",
+    "AOS_regular": 0.39999999999999997,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.5,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "productivity",
+    "AOS_regular": 0.6,
+    "AOS_devil": 0.0,
+    "delta": 0.6,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.15833333333333333,
+    "delta": 0.3416666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "topic": "team",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "career",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.26666666666666666,
+    "delta": 0.25000000000000006,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "education",
+    "AOS_regular": 0.5499999999999999,
+    "AOS_devil": 0.11666666666666665,
+    "delta": 0.4333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.049999999999999996,
+    "delta": 0.45,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "productivity",
+    "AOS_regular": 0.9833333333333334,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.9500000000000001,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek R1",
+    "topic": "team",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "education",
+    "AOS_regular": 0.6,
+    "AOS_devil": 0.25,
+    "delta": 0.35,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "productivity",
+    "AOS_regular": 0.9500000000000001,
+    "AOS_devil": 0.0,
+    "delta": 0.9500000000000001,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.5,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "DeepSeek V3",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.26666666666666666,
+    "delta": 0.23333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "finance",
+    "AOS_regular": 0.21666666666666667,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.033333333333333326,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.20000000000000004,
+    "delta": 0.29999999999999993,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "productivity",
+    "AOS_regular": 0.85,
+    "AOS_devil": 0.0,
+    "delta": 0.85,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "relationships",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.4166666666666667,
+    "delta": 0.10000000000000003,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.0 flash",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "career",
+    "AOS_regular": 0.6833333333333335,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.6000000000000001,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "education",
+    "AOS_regular": 0.7666666666666666,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.7499999999999999,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.48333333333333334,
+    "delta": 0.016666666666666663,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "productivity",
+    "AOS_regular": 0.9666666666666667,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.9333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "relationships",
+    "AOS_regular": 0.5499999999999999,
+    "AOS_devil": 0.5,
+    "delta": 0.04999999999999993,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "career",
+    "AOS_regular": 0.6333333333333333,
+    "AOS_devil": 0.45,
+    "delta": 0.1833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "education",
+    "AOS_regular": 0.6,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.5666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.30833333333333335,
+    "delta": 0.19166666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "productivity",
+    "AOS_regular": 0.8166666666666668,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.7166666666666668,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "relationships",
+    "AOS_regular": 0.5333333333333333,
+    "AOS_devil": 0.31666666666666665,
+    "delta": 0.21666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Flash Lite",
+    "topic": "team",
+    "AOS_regular": 0.5333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.5333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "career",
+    "AOS_regular": 1.0,
+    "AOS_devil": 0.6666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "education",
+    "AOS_regular": 0.7999999999999999,
+    "AOS_devil": 0.4000000000000001,
+    "delta": 0.39999999999999986,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.26666666666666666,
+    "delta": 0.23333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "finance",
+    "AOS_regular": 0.3,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "health",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.6833333333333332,
+    "delta": -0.016666666666666607,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "productivity",
+    "AOS_regular": 0.9333333333333332,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.9166666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "relationships",
+    "AOS_regular": 0.9666666666666667,
+    "AOS_devil": 0.4916666666666667,
+    "delta": 0.475,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.21666666666666667,
+    "delta": 0.11666666666666664,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "education",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.35000000000000003,
+    "delta": 0.23333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "finance",
+    "AOS_regular": 0.43333333333333335,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.35000000000000003,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.3,
+    "delta": 0.2,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "productivity",
+    "AOS_regular": 0.9166666666666666,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.8333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "relationships",
+    "AOS_regular": 0.5499999999999999,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 12b",
+    "topic": "team",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.45,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "career",
+    "AOS_regular": 0.325,
+    "AOS_devil": 0.0,
+    "delta": 0.325,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "education",
+    "AOS_regular": 0.6333333333333333,
+    "AOS_devil": 0.31666666666666665,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "ethics",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.3166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.39999999999999997,
+    "delta": 0.10000000000000003,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "productivity",
+    "AOS_regular": 0.9166666666666666,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.7833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "relationships",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.15,
+    "delta": 0.5166666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gemma 3 27b",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "career",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.23333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "productivity",
+    "AOS_regular": 0.9,
+    "AOS_devil": 0.0,
+    "delta": 0.9,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 3.5 Turbo",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "career",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.25,
+    "delta": 0.16666666666666669,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "education",
+    "AOS_regular": 0.5499999999999999,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.44999999999999996,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.2833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "health",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.5666666666666667,
+    "delta": -0.14999999999999997,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "productivity",
+    "AOS_regular": 0.8333333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.8333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "relationships",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.3666666666666667,
+    "delta": 0.29999999999999993,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1",
+    "topic": "team",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.4666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "education",
+    "AOS_regular": 0.5499999999999999,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.5333333333333332,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "ethics",
+    "AOS_regular": 0.31666666666666665,
+    "AOS_devil": 0.0,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "productivity",
+    "AOS_regular": 0.8833333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.8833333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "relationships",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.23333333333333336,
+    "delta": 0.35,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4.1 mini",
+    "topic": "team",
+    "AOS_regular": 0.3,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.2833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "career",
+    "AOS_regular": 0.7166666666666667,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.55,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "education",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "finance",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.18333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "health",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.31666666666666665,
+    "delta": 0.10000000000000003,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "productivity",
+    "AOS_regular": 0.7666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.7666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "relationships",
+    "AOS_regular": 0.6833333333333332,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.4999999999999999,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "ethics",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.4666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "productivity",
+    "AOS_regular": 0.9500000000000001,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.8666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "relationships",
+    "AOS_regular": 0.5333333333333333,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 4o Mini",
+    "topic": "team",
+    "AOS_regular": 0.18333333333333335,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.15000000000000002,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "career",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.15,
+    "delta": -0.15,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "education",
+    "AOS_regular": 0.3,
+    "AOS_devil": 0.21666666666666667,
+    "delta": 0.08333333333333331,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "ethics",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.016666666666666666,
+    "delta": -0.016666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "productivity",
+    "AOS_regular": 0.43333333333333335,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.38333333333333336,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "relationships",
+    "AOS_regular": 0.39999999999999997,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.35,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5",
+    "topic": "team",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.016666666666666666,
+    "delta": -0.016666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "career",
+    "AOS_regular": 0.47500000000000003,
+    "AOS_devil": 0.3333333333333333,
+    "delta": 0.14166666666666672,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "ethics",
+    "AOS_regular": 0.3833333333333333,
+    "AOS_devil": 0.19999999999999998,
+    "delta": 0.18333333333333332,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "finance",
+    "AOS_regular": 0.15,
+    "AOS_devil": 0.0,
+    "delta": 0.15,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "productivity",
+    "AOS_regular": 0.9666666666666667,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.8833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "relationships",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.11666666666666665,
+    "delta": 0.21666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 Nano",
+    "topic": "team",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.049999999999999996,
+    "delta": 0.2,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "career",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.23333333333333336,
+    "delta": 0.2833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "education",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.45,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "ethics",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.15,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "productivity",
+    "AOS_regular": 0.7833333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.7666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.4000000000000001,
+    "delta": 0.09999999999999992,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Gpt 5 mini",
+    "topic": "team",
+    "AOS_regular": 0.35000000000000003,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "career",
+    "AOS_regular": 0.6,
+    "AOS_devil": 0.6,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.11666666666666668,
+    "delta": 0.3833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.11666666666666665,
+    "delta": 0.38333333333333336,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "finance",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "health",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.5499999999999999,
+    "delta": -0.13333333333333325,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "productivity",
+    "AOS_regular": 0.8083333333333335,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.7583333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.5333333333333333,
+    "delta": -0.033333333333333326,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 3 Mini",
+    "topic": "team",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "career",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.9333333333333332,
+    "delta": -0.34999999999999987,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "education",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.4666666666666666,
+    "delta": 0.11666666666666675,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09166666666666667,
+    "delta": 0.4083333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.14999999999999997,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.3333333333333333,
+    "delta": 0.16666666666666669,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "productivity",
+    "AOS_regular": 0.9,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.85,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.4666666666666666,
+    "delta": 0.03333333333333338,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Grok 4",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.38333333333333336,
+    "delta": 0.11666666666666664,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "career",
+    "AOS_regular": 0.3833333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.3,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "education",
+    "AOS_regular": 0.5750000000000001,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.5583333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "productivity",
+    "AOS_regular": 0.9833333333333334,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.9500000000000001,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "relationships",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.3833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Hunyuan A13B Instruct",
+    "topic": "team",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "career",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.25,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "ethics",
+    "AOS_regular": 0.39999999999999997,
+    "AOS_devil": 0.0,
+    "delta": 0.39999999999999997,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.13333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "productivity",
+    "AOS_regular": 0.7333333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.7333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "relationships",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.4666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Inception Mercury",
+    "topic": "team",
+    "AOS_regular": 0.21666666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.21666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.25,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "education",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.15,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "productivity",
+    "AOS_regular": 0.875,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.8583333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "relationships",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.4166666666666667,
+    "delta": 0.10000000000000003,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Kimi K2",
+    "topic": "team",
+    "AOS_regular": 0.43333333333333335,
+    "AOS_devil": 0.0,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "education",
+    "AOS_regular": 0.45,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.26666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "finance",
+    "AOS_regular": 0.18333333333333335,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.10000000000000002,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "productivity",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.6666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "relationships",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.3,
+    "delta": 0.2833333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Liquid LFM 40B MoE",
+    "topic": "team",
+    "AOS_regular": 0.24166666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.24166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.19999999999999998,
+    "delta": 0.13333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "education",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "ethics",
+    "AOS_regular": 0.3,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.13333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "finance",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.016666666666666666,
+    "delta": -0.016666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "productivity",
+    "AOS_regular": 0.6833333333333332,
+    "AOS_devil": 0.11666666666666665,
+    "delta": 0.5666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.1 8B Instruct",
+    "topic": "team",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.016666666666666666,
+    "delta": -0.016666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.15,
+    "delta": 0.18333333333333332,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "education",
+    "AOS_regular": 0.3666666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "ethics",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.44999999999999996,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.26666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "productivity",
+    "AOS_regular": 0.8166666666666668,
+    "AOS_devil": 0.0,
+    "delta": 0.8166666666666668,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 3.3 70b",
+    "topic": "team",
+    "AOS_regular": 0.26666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.26666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "career",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "education",
+    "AOS_regular": 0.21666666666666667,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.18333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "ethics",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.23333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.21666666666666667,
+    "delta": -0.05000000000000002,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "productivity",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.6666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "relationships",
+    "AOS_regular": 0.4666666666666666,
+    "AOS_devil": 0.26666666666666666,
+    "delta": 0.19999999999999996,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Maverick",
+    "topic": "team",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "education",
+    "AOS_regular": 0.049999999999999996,
+    "AOS_devil": 0.0,
+    "delta": 0.049999999999999996,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "ethics",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "productivity",
+    "AOS_regular": 0.7666666666666666,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.6833333333333332,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "relationships",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Llama 4 Scout",
+    "topic": "team",
+    "AOS_regular": 0.08333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "career",
+    "AOS_regular": 0.5666666666666668,
+    "AOS_devil": 0.15,
+    "delta": 0.41666666666666674,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "education",
+    "AOS_regular": 0.5666666666666665,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.5333333333333332,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.4,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "productivity",
+    "AOS_regular": 0.7999999999999999,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.7833333333333332,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "relationships",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.4333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "MAI DS R1",
+    "topic": "team",
+    "AOS_regular": 0.18333333333333335,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "career",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.5833333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "education",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "finance",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.06666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "health",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "productivity",
+    "AOS_regular": 0.55,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.5166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "relationships",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.3416666666666666,
+    "delta": -0.008333333333333304,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Magistral Small 2506",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "career",
+    "AOS_regular": 0.7000000000000001,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.6166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "education",
+    "AOS_regular": 0.6333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.6333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.19999999999999998,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.33333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "productivity",
+    "AOS_regular": 0.9833333333333334,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.9500000000000001,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Medium 3.1",
+    "topic": "team",
+    "AOS_regular": 0.5166666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.5166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.3,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "education",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "finance",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.0,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.20000000000000004,
+    "delta": 0.29999999999999993,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "productivity",
+    "AOS_regular": 0.85,
+    "AOS_devil": 0.0,
+    "delta": 0.85,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Mistral Small 3.2 24b",
+    "topic": "team",
+    "AOS_regular": 0.08333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.06666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "education",
+    "AOS_regular": 0.45,
+    "AOS_devil": 0.0,
+    "delta": 0.45,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "ethics",
+    "AOS_regular": 0.4166666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.4166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "finance",
+    "AOS_regular": 0.0,
+    "AOS_devil": 0.0,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "productivity",
+    "AOS_regular": 0.7166666666666667,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.7,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "relationships",
+    "AOS_regular": 0.31666666666666665,
+    "AOS_devil": 0.0,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Phi-4 reasoning+",
+    "topic": "team",
+    "AOS_regular": 0.08333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "career",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.11666666666666665,
+    "delta": 0.46666666666666673,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "education",
+    "AOS_regular": 0.5333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.5333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "productivity",
+    "AOS_regular": 0.9666666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.9666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "relationships",
+    "AOS_regular": 0.6,
+    "AOS_devil": 0.26666666666666666,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 235b A22B Instruct",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "career",
+    "AOS_regular": 0.7666666666666666,
+    "AOS_devil": 0.15,
+    "delta": 0.6166666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "education",
+    "AOS_regular": 0.5833333333333334,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.5166666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "ethics",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.4666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "finance",
+    "AOS_regular": 0.18333333333333335,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.16666666666666669,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.13333333333333333,
+    "delta": 0.3666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "productivity",
+    "AOS_regular": 0.7999999999999999,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.7,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "relationships",
+    "AOS_regular": 0.5333333333333333,
+    "AOS_devil": 0.21666666666666667,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Qwen 3 32b",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "career",
+    "AOS_regular": 0.9666666666666667,
+    "AOS_devil": 0.3333333333333333,
+    "delta": 0.6333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "education",
+    "AOS_regular": 0.8666666666666667,
+    "AOS_devil": 0.0,
+    "delta": 0.8666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "health",
+    "AOS_regular": 0.6666666666666666,
+    "AOS_devil": 0.39999999999999997,
+    "delta": 0.26666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "productivity",
+    "AOS_regular": 1.0,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.8333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "relationships",
+    "AOS_regular": 1.0,
+    "AOS_devil": 0.21666666666666667,
+    "delta": 0.7833333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis 70b v1.1",
+    "topic": "team",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.0,
+    "delta": 0.16666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.08333333333333333,
+    "delta": 0.25,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "education",
+    "AOS_regular": 0.08333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.08333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "ethics",
+    "AOS_regular": 0.21666666666666667,
+    "AOS_devil": 0.09999999999999999,
+    "delta": 0.11666666666666668,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "finance",
+    "AOS_regular": 0.25,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.08333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.0,
+    "delta": 0.5,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "productivity",
+    "AOS_regular": 0.85,
+    "AOS_devil": 0.0,
+    "delta": 0.85,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "relationships",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.0,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "TDR Anubis Pro 105b v1",
+    "topic": "team",
+    "AOS_regular": 0.16666666666666666,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.0,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "career",
+    "AOS_regular": 0.6,
+    "AOS_devil": 0.43333333333333335,
+    "delta": 0.16666666666666663,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "education",
+    "AOS_regular": 0.6333333333333333,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.44999999999999996,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "ethics",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.0,
+    "delta": 0.3333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.4666666666666666,
+    "delta": 0.03333333333333338,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "productivity",
+    "AOS_regular": 0.9500000000000001,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.9,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "relationships",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.3666666666666667,
+    "delta": 0.1333333333333333,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5",
+    "topic": "team",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.48333333333333334,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "career",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.4166666666666667,
+    "delta": -0.08333333333333337,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "education",
+    "AOS_regular": 0.6166666666666667,
+    "AOS_devil": 0.18333333333333335,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "ethics",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.05000000000000001,
+    "delta": 0.43333333333333335,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "finance",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.06666666666666667,
+    "delta": 0.26666666666666666,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "health",
+    "AOS_regular": 0.5,
+    "AOS_devil": 0.4666666666666666,
+    "delta": 0.03333333333333338,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "productivity",
+    "AOS_regular": 1.0,
+    "AOS_devil": 0.03333333333333333,
+    "delta": 0.9666666666666667,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "relationships",
+    "AOS_regular": 0.48333333333333334,
+    "AOS_devil": 0.16666666666666666,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  },
+  {
+    "model": "Z-AI GLM 4.5 Air",
+    "topic": "team",
+    "AOS_regular": 0.3333333333333333,
+    "AOS_devil": 0.016666666666666666,
+    "delta": 0.31666666666666665,
+    "n_regular": 6,
+    "n_devil": 6
+  }
+]
