@@ -1,78 +1,168 @@
-<p align="center">
-  <a href="https://nextjs-flask-starter.vercel.app/">
-    <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="96">
-    <h3 align="center">Next.js Flask Starter</h3>
-  </a>
-</p>
+# SychoBench
 
-<p align="center">Simple Next.js boilerplate that uses <a href="https://flask.palletsprojects.com/">Flask</a> as the API backend.</p>
+**AI Sycophancy Evaluation Dashboard**
 
-<br/>
+A Next.js application for analyzing and visualizing AI model sycophancy patterns, providing researchers and practitioners with detailed insights into model behavior across diverse prompt scenarios.
 
-## Introduction
+## Features
 
-This is a hybrid Next.js + Python app that uses Next.js as the frontend and Flask as the API backend. One great use case of this is to write Next.js apps that use Python AI libraries on the backend.
+### Results Dashboard
+- **Interactive Sycophancy Index Chart**: Bar chart visualization with risk-based color coding
+- **Behavioral Quadrant Analysis**: Scatter plot showing sycophancy vs stability patterns
+- **Elasticity Quadrant Analysis**: Advanced analysis of stance responsiveness and topic consistency
+- **Per-Model Metrics Table**: Comprehensive model statistics with toggle functionality
 
-## How It Works
+### **Prompt Explorer**
+- **Detailed Prompt Analysis**: Drill down into individual prompts and responses
+- **Model Comparison**: Side-by-side analysis of how different models respond to the same prompt
+- **Interactive Search & Filtering**: Find prompts by topic, persona, or content
+- **Timeline Navigation**: Intuitive prompt selection with visual indicators
 
-The Python/Flask server is mapped into to Next.js app under `/api/`.
+### Methodology Documentation
+- **Comprehensive Framework**: Detailed explanation of evaluation methodology
+- **Technical Appendix**: Mathematical foundations and validation approaches
+- **Interactive Table of Contents**: Easy navigation through documentation sections
 
-This is implemented using [`next.config.js` rewrites](https://github.com/vercel/examples/blob/main/python/nextjs-flask/next.config.js) to map any request to `/api/:path*` to the Flask API, which is hosted in the `/api` folder.
-
-On localhost, the rewrite will be made to the `127.0.0.1:5328` port, which is where the Flask server is running.
-
-In production, the Flask server is hosted as [Python serverless functions](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python) on Vercel.
-
-## Demo
-
-https://nextjs-flask-starter.vercel.app/
-
-## Deploy Your Own
-
-You can clone & deploy it to Vercel with one click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=Next.js%20Flask%20Starter&demo-description=Simple%20Next.js%20boilerplate%20that%20uses%20Flask%20as%20the%20API%20backend.&demo-url=https%3A%2F%2Fnextjs-flask-starter.vercel.app%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F795TzKM3irWu6KBCUPpPz%2F44e0c6622097b1eea9b48f732bf75d08%2FCleanShot_2023-05-23_at_12.02.15.png&project-name=Next.js%20Flask%20Starter&repository-name=nextjs-flask-starter&repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fpython%2Fnextjs-flask&from=vercel-examples-repo)
-
-## Developing Locally
-
-You can clone & create this repo with the following command
-
-```bash
-npx create-next-app nextjs-flask --example "https://github.com/vercel/examples/tree/main/python/nextjs-flask"
-```
+### Design & UX
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
+- **Dark/Light Theme**: Automatic theme switching based on user preferences
+- **Professional UI**: Clean, modern interface with consistent design system
+- **Full-Width Layouts**: Optimized for modern wide screens
 
 ## Getting Started
 
-First, install the dependencies:
+### Prerequisites
+- Node.js 18+ 
+- npm, yarn, or pnpm
 
-```bash
-npm install
-# or
-yarn
-# or
-pnpm install
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd SychoBench
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   # or
+   pnpm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   # or
+   pnpm dev
+   ```
+
+4. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+## Project Structure
+
+```
+SychoBench/
+├── app/                          # Next.js 14 App Router
+│   ├── page.tsx                  # Home page
+│   ├── methodology/              # Methodology documentation
+│   ├── results/                  # Results dashboard
+│   ├── prompt-explorer/          # Prompt analysis tool
+│   └── globals.css              # Global styles
+├── public/
+│   └── data/                    # JSON data files
+│       ├── responses_with_scores.json
+│       └── stance_elasticity_metrics.json
+└── components/                  # Reusable React components
 ```
 
-Then, run the development server:
+## Data Sources
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### `responses_with_scores.json`
+Main evaluation dataset containing:
+- Model responses to prompts
+- Sycophancy scores and metrics
+- Prompt metadata (topic, persona, stance)
+- Behavioral classifications
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### `stance_elasticity_metrics.json`
+Advanced elasticity analysis data:
+- Stance responsiveness variability
+- Topic dispersion measurements
+- Behavioral stability metrics
+- Quadrant classifications
 
-The Flask server will be running on [http://127.0.0.1:5328](http://127.0.0.1:5328) – feel free to change the port in `package.json` (you'll also need to update it in `next.config.js`).
+## Technical Stack
 
-## Learn More
+- **Framework**: Next.js 14 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Charts**: Chart.js with react-chartjs-2
+- **Icons**: Heroicons
+- **Deployment**: Vercel-ready
 
-To learn more about Next.js, take a look at the following resources:
+## Key Components
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/) - learn about Flask features and API.
+### Risk Assessment
+- **Low Risk**: Models with minimal sycophantic behavior (< 30%)
+- **Moderate Risk**: Models showing some concerning patterns (30-50%)
+- **High Risk**: Models with significant sycophancy issues (> 50%)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Behavioral Archetypes
+- **Most Stable**: Consistent responses across topics and tones
+- **Stance-Responsive**: Influenced by user confidence levels
+- **Topic-Dependent**: Varies by subject matter
+- **Highly Variable**: Unpredictable across multiple dimensions
+
+## Configuration
+
+### Environment Variables
+No environment variables required for basic functionality.
+
+### Customization
+- Modify risk thresholds in `app/results/page.tsx`
+- Update styling in `app/globals.css`
+- Add new data sources in `public/data/`
+
+## Usage Examples
+
+### Analyzing Model Performance
+1. Visit the **Results** page for high-level overview
+2. Use **Prompt Explorer** for detailed analysis
+3. Reference **Methodology** for understanding metrics
+
+### Comparing Models
+1. Select models in the interactive charts
+2. View detailed metrics in the expandable table
+3. Explore specific prompt responses
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**ramdhanhdy**
+
+## Acknowledgments
+
+- Built with Next.js and modern web technologies
+- Inspired by the need for transparent AI evaluation
+- Designed for researchers, practitioners, and AI safety professionals
+
+---
+
+*SychoBench: Making AI sycophancy patterns visible and actionable.*
