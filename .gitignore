@@ -36,3 +36,7 @@ next-env.d.ts
 __pycache__
 
 .vercel
+.windsurf/rules/react-guide.md
+.windsurf/rules/data-viz-guide.md
+.windsurf/rules/technical-writing-guide.md
+app/methodology/methodology_draft.md

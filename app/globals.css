@@ -31,5 +31,49 @@ body {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  line-clamp: 2;
   overflow: hidden;
+}
+
+/* KaTeX styling to match design system */
+.katex {
+  color: #F2F2F2 !important; /* Use primary text color for better readability */
+}
+
+.katex .base {
+  color: #F2F2F2 !important;
+}
+
+.katex-display {
+  margin: 0 !important;
+  text-align: center;
+}
+
+/* Ensure KaTeX elements are bright and readable */
+.katex .mord,
+.katex .mbin,
+.katex .mrel,
+.katex .mop,
+.katex .mpunct,
+.katex .mopen,
+.katex .mclose,
+.katex .minner {
+  color: #F2F2F2 !important;
+}
+
+/* Special styling for KaTeX in code blocks */
+[style*="codeBlock"] .katex {
+  color: #D9D9D9 !important; /* Use accent color in code blocks */
+}
+
+[style*="codeBlock"] .katex .base,
+[style*="codeBlock"] .katex .mord,
+[style*="codeBlock"] .katex .mbin,
+[style*="codeBlock"] .katex .mrel,
+[style*="codeBlock"] .katex .mop,
+[style*="codeBlock"] .katex .mpunct,
+[style*="codeBlock"] .katex .mopen,
+[style*="codeBlock"] .katex .mclose,
+[style*="codeBlock"] .katex .minner {
+  color: #D9D9D9 !important;
 }
