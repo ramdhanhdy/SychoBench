@@ -77,3 +77,76 @@ body {
 [style*="codeBlock"] .katex .minner {
   color: #D9D9D9 !important;
 }
+
+/* Select dropdown styling for better readability */
+select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+  background-position: right 0.5rem center;
+  background-repeat: no-repeat;
+  background-size: 1.5em 1.5em;
+  padding-right: 2.5rem;
+}
+
+select option {
+  background-color: #ffffff !important;
+  color: #1f2937 !important;
+  padding: 0.5rem;
+}
+
+/* Dark mode select options - match design system */
+@media (prefers-color-scheme: dark) {
+  select option {
+    background-color: #0D0D0D !important; /* Match page background exactly */
+    color: #F2F2F2 !important; /* Match design system primary text */
+    border: none !important; /* Remove border to match select */
+  }
+  
+  /* Ensure the dropdown container also matches */
+  select {
+    background-color: #0D0D0D !important; /* Match page background */
+  }
+}
+
+/* Specific styling for model selector */
+.model-select {
+  cursor: pointer;
+  /* Force dropdown to open downward */
+  position: relative;
+  z-index: 10;
+}
+
+.model-select:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Ensure dropdown opens downward by providing enough space */
+.model-select-container {
+  margin-bottom: 2rem; /* Provide space for dropdown */
+  /* Ensure container has enough space below */
+  min-height: 3rem;
+}
+
+/* Force dropdown direction */
+@supports selector(:dir(ltr)) {
+  .model-select {
+    /* Ensure dropdown has space to expand downward */
+    margin-bottom: 0.5rem;
+  }
+}
+
+.model-select option {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.model-select option:hover {
+  background-color: #f3f4f6 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .model-select option:hover {
+    background-color: rgba(82, 82, 89, 0.1) !important; /* Subtle hover effect over page background */
+  }
+}
